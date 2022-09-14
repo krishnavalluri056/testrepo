@@ -68,4 +68,4 @@ jobs:
 
           # [Optional, default: "FALSE"]
           # Displays all existing vulnerabilities, including the ones that were added by the pull request.
-          # JF_INCLUDE_ALL_VULNERABILITIES: "TRUE"
+          # JF_INCLUDE_ALL_VULNERABILITIES: "TRUE". 
